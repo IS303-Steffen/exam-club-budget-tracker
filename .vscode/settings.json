@@ -1,0 +1,25 @@
+{
+  "git.enableSmartCommit": false,
+  "git.postCommitCommand": "push",
+
+  "github.copilot.enable": { "*": false },
+  "github.copilot.inlineSuggest.enable": false,
+  "editor.inlineSuggest.enabled": false,
+
+  "extensions.ignoreRecommendations": true,
+  "extensions.unwantedRecommendations": [
+    "GitHub.copilot",
+    "GitHub.copilot-chat",
+    "GitHub.copilot-labs"
+    ],
+
+  "extensions.autoUpdate": false,
+  "extensions.autoCheckUpdates": false,
+  "extensions.gallery": {
+    "serviceUrl": "",
+    "cacheUrl": "",
+    "itemUrl": ""
+  },
+
+  "workbench.enableExperiments": false
+}
