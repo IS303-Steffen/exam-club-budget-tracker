@@ -4,6 +4,8 @@
 See the .pdf on Learning Suite for the instructions.
 
 ### 1. When you're done: Push your code to GitHub
+Before anything else, make sure that your file with your code is saved. You can go to File > Save All from the little menu in the top left of VS Code. If Save All is grayed out, that means all your files are already saved.
+
 To turn in your code by pushing it to GitHub, copy the command below:
 ```
 git add -A && git commit -m "exam submission" && git push
